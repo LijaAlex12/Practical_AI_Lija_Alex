@@ -19,6 +19,8 @@
 ```
 ### To work with the ipynb file for the model creation
   * use google colab
+  * download my customised datasets from:
+    - https://drive.google.com/drive/folders/1REFkQeXGSHHrYbesmlGOl6VqXNCeEEo6?usp=sharing
   * appropriately modify the paths mentioned in the colab file
   * download the file with .h5 file and save it in the project folder
 
