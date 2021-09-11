@@ -1,9 +1,17 @@
 ## Steps to run to view the output:
 
-1. create a virtual env
+1.1 create a virtual env for macos or linux based
+
 ```
   python3 -m venv myvenv
-  source myvenv/bin/activate
+  source myvenv/bin/activate  
+```
+
+1.2 for windows:
+
+```
+python -m venv virt
+python virt/Scripts/activate
 ```
 
 2. clone the project
