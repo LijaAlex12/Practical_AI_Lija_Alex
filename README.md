@@ -13,6 +13,9 @@
 python -m venv virt
 python virt/Scripts/activate
 ```
+1.3 use 
+```pip freeze```
+to see installed dependencies
 
 2. clone the project
 3. Install Flask
